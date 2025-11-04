@@ -17,7 +17,7 @@ ubuntainium  # Updates everything
 **Why Ubuntainium?**
 
 Fresh Updates:    Devs ship weekly? You get 'em today — not in 2029.
-Offline-Ready:    Cache downloads for air-gapped setups (Wenou ISO vibes).
+Offline-Ready:    Cache downloads for air-gapped setups ( ISO vibes).
 Zero Bloat:       Bash + curl + jq. No daemons, no telemetry.
 Hook into Apt:    sudo apt upgrade → auto-triggers ubuntainium.
 
@@ -40,7 +40,7 @@ ubuntainium  # Updates everything
 ## Why Ubuntainium?
 
 - **Fresh Updates**: Devs ship weekly? You get 'em *today* — not in 2029.
-- **Offline-Ready**: Cache downloads for air-gapped setups (Wenou ISO vibes).
+- **Offline-Ready**: Cache downloads for air-gapped setups ( ISO vibes).
 - **Zero Bloat**: Bash + curl + jq. No daemons, no telemetry.
 - **Hook into Apt**: `sudo apt upgrade` → auto-triggers `ubuntainium`.
 
@@ -54,7 +54,7 @@ ubuntainium  # Updates everything
 | `ubuntainium --offline` | ✅ Done |
 | Apt post-hook | ✅ Done |
 | `.deb`, `.AppImage`, `tar.gz` | ✅ Done |
-| Wenou ISO integration | ✅ Done |
+| ISO integration | ✅ Done |
 
 ## Quickstart Config
 
@@ -92,7 +92,7 @@ ubuntainium add windterm kingToolbox/WindTerm deb "WindTerm_.*amd64\\.deb" \
   "sudo dpkg -i {{file}} || sudo apt install -f -y"
 ```
 
-## Wenou ISO
+## ISO
 
 Pre-cache:
 ```bash
