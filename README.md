@@ -16,7 +16,7 @@ ubuntainium
 
 
 sudo apt upgrade          → updates Ubuntu
-ubuntainium update        → updates WindTerm, Notesnook, Proton Pass, etc.
+ubuntainium update        → updates WindTerm, Notesnook, etc.
 ubuntainium --offline        → updates from local cache (Wenou ISO)
 ubuntainium add windterm     → auto-tracks latest .deb
 ubuntainium-up list             → shows all tracked apps
