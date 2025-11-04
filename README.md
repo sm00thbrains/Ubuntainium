@@ -1,5 +1,5 @@
 # Ubuntainium
-An idea forged from the frustration of outdated repos and the people who created Obtainium for Android
+An idea forged from the frustration of outdated repos and the people who created [Obtainium](https://github.com/ImranR98/Obtainium) for Android
 
 **Obtainium for Ubuntu** — Update GitHub apps *outside* of `apt`.
 
