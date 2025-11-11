@@ -44,7 +44,6 @@ Hook into Apt:    sudo apt upgrade → auto-triggers ubuntainium.
 **Features**
 
 [![GitHub stars](https://img.shields.io/github/stars/sm00thbrains/Ubuntainium)](https://github.com/sm00thbrains/Ubuntainium/stars)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Obtainium for Ubuntu** — Update GitHub apps *outside* of `apt`. No PPAs. No stale repos. No 8-year-old packages haunting your system.
 
@@ -124,12 +123,6 @@ First boot:
 ```bash
 ubuntainium --offline
 ```
-
-## License
-
-MIT — Free forever.
-
----
 
 > **"They said Linux updates were slow. We said: Hold my Ubuntainium."**
 
